@@ -22,3 +22,9 @@ Historical btc data is available in batch from http://api.bitcoincharts.com/v1/c
   *Create standard technical analysis features. SMA/EMA/BollingerBands/MACD at different time points for compairison purposes 
   
 #3 Deploy ML model to score on streaming API every X minutes and perform automated trading using the stream taking into account current position.
+
+
+REFERENCES:
+
+http://pandas.pydata.org/pandas-docs/stable/timeseries.html#offset-aliases
+https://stackoverflow.com/questions/36222928/pandas-ohlc-aggregation-on-ohlc-data
