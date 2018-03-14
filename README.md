@@ -28,3 +28,9 @@ REFERENCES:
 
 http://pandas.pydata.org/pandas-docs/stable/timeseries.html#offset-aliases
 https://stackoverflow.com/questions/36222928/pandas-ohlc-aggregation-on-ohlc-data
+
+
+Misc:
+
+https://stackoverflow.com/questions/46070126/google-finance-json-stock-quote-stopped-working/
+http://www.marketcalls.in/database/google-realtime-intraday-backfill-data.html
